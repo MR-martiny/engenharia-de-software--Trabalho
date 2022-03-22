@@ -15,5 +15,5 @@ o sistema MMO é uma rede de jogos indies, que vem como forma de facilitar e via
   
   ## Alunos responsáveis:
   -<a href= https://github.com/kdaon </a>
-  -<a href="postar link aqui" </a>
-  -<a href="postar link aqui" </a>
+  -<a href= https://github.com/MR-martiny </a>
+  -<a href= "postar link aqui" </a>
