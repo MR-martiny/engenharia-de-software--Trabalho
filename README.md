@@ -3,11 +3,11 @@ O sistema MMO é uma rede de jogos indies, que vem como forma de facilitar e via
 
 <h2>Tecnologias utilizadas:</h2>
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Apache</li>
-  <li>PHP</li>
-  <li>MySQL</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Apache - v2.4.53</li>
+  <li>PHP - v8.1.3</li>
+  <li>MySQL - v8.0.21</li>
 </ul>
   
 <h2> Alunos responsáveis: </h2>
