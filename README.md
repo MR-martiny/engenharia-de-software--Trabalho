@@ -11,6 +11,6 @@ O sistema MMO é uma rede de jogos indies, que vem como forma de facilitar e via
 </ul>
   
 <h2> Alunos responsáveis: </h2>
-   <li><a href="https://github.com/matheusGonks">Matheus Silva Gonçalves</a></li>
-   <li><a href="https://github.com/MR-martiny">Mathias Silva Sousa</a></li>
-   <li><a href="https://github.com/kdaon">Olivia Campos</a></li>
+   <li><a href="https://github.com/matheusGonks" target="_blank">Matheus Silva Gonçalves</a></li>
+   <li><a href="https://github.com/MR-martiny" target="_blank">Mathias Silva Sousa</a></li>
+   <li><a href="https://github.com/kdaon" target="_blank">Olivia Campos</a></li>
