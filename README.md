@@ -1,5 +1,5 @@
 <h2>MMO</h2>
-O sistema MMO é uma rede venda de jogos indies, que vem como forma de facilitar e viabilizar criadores indepedentes e pequenas desenvolvedoras a expor seu trabalho e entrar no mercado de jogos.
+O sistema MMO é uma rede de vendas de jogos indies, que vem como forma de facilitar e viabilizar criadores indepedentes e pequenas desenvolvedoras a expor seu trabalho e entrar no mercado de jogos.
 
 <h2>&#127912 Protótipo</h2>
 <li><a href="https://www.figma.com/proto/SdSmbk8628zFsGdzWz52J9/Protótipo-MMO" target="_blank">Link do protótipo feito no figma</a></li>
