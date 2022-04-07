@@ -9,7 +9,7 @@ O sistema MMO é uma rede de vendas de jogos indies, que vem como forma de facil
   <li>HTML5</li>
   <li>CSS3</li>
   <li>Apache - v2.4.53</li>
-  <li>PHP - v8.1.3</li>
+  <li>PHP - v8.1.4</li>
   <li>MySQL - v8.0.21</li>
 </ul>
   
