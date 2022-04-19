@@ -5,13 +5,19 @@ O sistema MMO é uma rede de vendas de jogos indies, que vem como forma de facil
 <li><a href="https://www.figma.com/proto/SdSmbk8628zFsGdzWz52J9/Protótipo-MMO" target="_blank">Link do protótipo feito no figma</a></li>
 
 <h2>&#128295 Tecnologias utilizadas</h2>
-<ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>Apache - v2.4.53</li>
   <li>PHP - v8.1.4</li>
   <li>MySQL - v8.0.21</li>
-</ul>
+  
+  <h2>Boas Práticas Adotadas</h2>
+	<li> Comentar apenas aquilo cujo significado pode não estar claro, ou uma explicação se faz necessária. </li>
+	<li> Utilizar o padrão ‘camelCase’ para a nomeação de variáveis e funções; exemplo ‘agendarEvento( )’ ou ‘identificacaoUsuario’. </li>
+	<li> Utilizar verbos no infinitivo para a nomeação de funções; exemplo: ‘Consultar’, ‘comprar’, ‘realizar’, ‘cadastrar’. </li>
+	<li> Utilizar nomenclaturas claras para as variáveis, que deixem claro do que se trata cada uma. </li>
+	<li> Técnicas de Clean Code, como evitar funções, atribuições e operações longas que possam comprometer a legibilidade e ser de difícil entendimento. </li>
+  <li> As variáveis devem possuir nomes autoexplicativos. </li>
   
 <h2>&#128100 Alunos responsáveis </h2>
    <li><a href="https://github.com/matheusGonks" target="_blank">Matheus Silva Gonçalves</a></li>
