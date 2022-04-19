@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/1ab94d0eba.js" crossorigin="anonymous"></script>
+    <title>MMO - Cadastro</title>
+    <link rel="stylesheet" href="../Estilos/style.css">
+</head>
+<body>
+    <main class="container">
+        <h2>Cadastrar Solicitação</h2>
+        <form action="Controller/Solicitacao/CadastrarSolicitacao.php" method="POST" autocomplete="off">
+            <div class="input-field">
+              <input type="text" name="sdev" id="sdev"
+                  placeholder="Desenvolvedor" required>
+                  <div class="underline"></div>
+            </div>
+            <div class="input-field">
+                  <input type="text" name="sjogo" id="sjogo"
+                      placeholder="Nome do Jogo" required>
+                      <div class="underline"></div>
+            </div><br>
+            <div class="input-field">
+                <input type="text" name="sdescricao" id="sdescricao"
+                    placeholder="Descrição do Jogo" required>
+                    <div class="underline"></div>
+            </div><br>
+            <div class="input-field">
+                  <input type="number" step=0.01 min=0 name="svalor" id="svalor"
+                      placeholder="Insira o preço sugerido" required>
+                  <div class="underline"></div>
+            </div><br>
+            <div class="input-field">
+              Data de Lançamento<input type="date" name="sdata" id="sdata">
+                  <div class="underline"></div>
+          </div><br>
+          <div class="input-field">
+            <input type="email" name="semail" id="semail"
+                placeholder="Insira o email para contato" required>
+            <div class="underline"></div>
+      </div>
+              <input type="submit" value="Enviar Solicitação">
+              <input type="button" value="Voltar" onclick="location.href='../../painel_solic.html'">
+          </form>
+    </main>
+</body>
+</html>
