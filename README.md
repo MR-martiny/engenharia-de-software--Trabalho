@@ -19,6 +19,11 @@ O sistema MMO é uma rede de vendas de jogos indies, que vem como forma de facil
 	<li> As variáveis devem possuir nomes autoexplicativos. </li>
 	<li> Técnicas de Clean Code, como evitar funções, atribuições e operações longas que possam comprometer a legibilidade e ser de difícil entendimento. </li>
 
+<h2>Regras de Uso</h2>
+	<li> Na pasta <b>Documentos</b> devem estar os documentos de requisito e padrões adotados. </li>
+	<li> Na pasta <b>Diagramas</b> devem estar todos os diagramas criados. </li>
+	<li> Na pasta <b>Projeto</b> deve estar armazenado o código fonte do sistema. </li>
+	<li> Todos os commits devem ser feitos de forma clara. </li> 
   
 <h2>&#128100 Alunos responsáveis </h2>
    <li><a href="https://github.com/matheusGonks" target="_blank">Matheus Silva Gonçalves</a></li>
