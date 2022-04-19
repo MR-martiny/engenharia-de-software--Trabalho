@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/1ab94d0eba.js" crossorigin="anonymous"></script>
+    <title>MMO - Cadastro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="container">
+        <h2>Cadastro</h2>
+        <form action="Controller/Usuario/CadastrarUsuario.php" method="POST" autocomplete="off">
+            <div class="input-field">
+                <input type="text" name="nome" id="nome"
+                    placeholder="Insira seu nome" required>
+                    <div class="underline"></div>
+            </div>
+            <div class="input-field">
+                <input type="email" name="email" id="email"
+                    placeholder="Insira seu e-mail" required>
+                    <div class="underline"></div>
+            </div><br>
+            <div class="input-field">
+                <input type="password" name="password" id="password"
+                    placeholder="Insira sua senha" required>
+                <div class="underline"></div>
+            </div>
+        </div><br>
+            <input type="submit" value="Cadastrar">
+            <input type="button" value="Voltar" onclick="location.href='index.html'">
+        </form>
+    </main>
+</body>
+</html>
