@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/1ab94d0eba.js" crossorigin="anonymous"></script>
+    <title>MMO - Cadastrar Jogo</title>
+    <link rel="stylesheet" href="../Estilos/style.css">
+</head>
+<body>
+    <main class="container">
+        <h2>Cadastro de um Jogo</h2>
+        <form action="../../Controller/Jogo/CadastrarJogo.php" method="POST" autocomplete="off">
+            <div class="input-field">
+                <input type="text" name="jnome" id="jnome"
+                    placeholder="Nome do Jogo" required>
+                    <div class="underline"></div>
+            </div>
+            <div class="input-field">
+                <input type="Descrição" name="jdescricao" id="jdescricao"
+                    placeholder="Insira descricao do jogo" required>
+                    <div class="underline"></div>
+            </div><br>
+            <div class="input-field">
+                <input type="number" step=0.01 min=0 name="jvalor" id="jvalor"
+                    placeholder="Insira o preço sugerido" required>
+                <div class="underline"></div>
+            </div><br>
+
+            <input type="submit" value="Cadastrar jogo">
+            <input type="button" value="Voltar" onclick="location.href='../../painel_jogos.html'">
+        </form>
+    </main>
+</body>
+</html>
