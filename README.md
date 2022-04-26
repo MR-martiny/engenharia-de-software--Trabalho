@@ -11,7 +11,7 @@ O sistema MMO é uma rede de vendas de jogos indies, que vem como forma de facil
   <li>PHP - v8.1.4</li>
   <li>MySQL - v8.0.21</li>
   
-  <h2>Boas Práticas Adotadas</h2>
+  <h2>&#128209 Boas Práticas Adotadas</h2>
 	<li> Comentar apenas aquilo cujo significado pode não estar claro, ou uma explicação se faz necessária. </li>
 	<li> Utilizar o padrão ‘camelCase’ para a nomeação de variáveis e funções; exemplo ‘agendarEvento( )’ ou ‘identificacaoUsuario’. </li>
 	<li> Utilizar verbos no infinitivo para a nomeação de funções; exemplo: ‘Consultar’, ‘comprar’, ‘realizar’, ‘cadastrar’. </li>
@@ -19,10 +19,10 @@ O sistema MMO é uma rede de vendas de jogos indies, que vem como forma de facil
 	<li> As variáveis devem possuir nomes autoexplicativos. </li>
 	<li> Técnicas de Clean Code, como evitar funções, atribuições e operações longas que possam comprometer a legibilidade e ser de difícil entendimento. </li>
 
-<h2>Regras de Uso</h2>
+<h2>&#128209 Regras de Uso</h2>
 	<li> Na pasta <b>Documentos</b> devem estar os documentos de requisito e padrões adotados. </li>
 	<li> Na pasta <b>Diagramas</b> devem estar todos os diagramas criados. </li>
-	<li> Na pasta <b>Projeto</b> deve estar armazenado o código fonte do sistema. </li>
+	<li> Na pasta <b>Projeto</b> deve estar armazenado o código fonte do sistema e o banco de dados. </li>
 	<li> Todos os commits devem ser feitos de forma clara. </li> 
   
 <h2>&#128100 Alunos responsáveis </h2>
